@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+﻿  猫狗队列.cpp
+=======
+﻿  生成窗口最大值.cpp
+e:\vs 项目\algorithm\algorithm\生成窗口最大值.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs 项目\algorithm\algorithm\生成窗口最大值.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+  e:\vs 项目\algorithm\algorithm\生成窗口最大值.cpp(30): note: 参见对正在编译的函数 模板 实例化“std::vector<int,std::allocator<_Ty>> getMaxWindow<int>(std::vector<_Ty,std::allocator<_Ty>>,int)”的引用
+          with
+          [
+              _Ty=int
+          ]
+e:\vs 项目\algorithm\algorithm\生成窗口最大值.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+>>>>>>> 如何仅用递归和栈操作逆序一个栈.cpp
+  algorithm.vcxproj -> E:\vs 项目\algorithm\Debug\algorithm.exe
