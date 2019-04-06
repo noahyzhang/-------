@@ -115,11 +115,28 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="两数相加.cpp" />
+    <ClCompile Include="两种对字母的排序方法.cpp" />
+    <ClCompile Include="倒置一个字符串.cpp" />
+    <ClCompile Include="合法括号序列判断.cpp" />
+    <ClCompile Include="因子个数.cpp" />
+    <ClCompile Include="字符串中找出连续的数字串.cpp" />
+    <ClCompile Include="密码解密.cpp" />
+    <ClCompile Include="斐波那契数列.cpp" />
+    <ClCompile Include="求最小公倍数.cpp" />
+    <ClCompile Include="统计回文.cpp" />
+    <ClCompile Include="腾讯笔试.cpp" />
+    <ClCompile Include="删除公共字符.cpp" />
+    <ClCompile Include="取中值求最大.cpp" />
     <ClCompile Include="如何仅用递归和栈操作逆序一个栈.cpp" />
+    <ClCompile Include="排序子序列.cpp" />
     <ClCompile Include="有两个栈组成的队列.cpp" />
     <ClCompile Include="生成窗口最大值.cpp" />
     <ClCompile Include="用一个栈实现另一个栈的排序.cpp" />
     <ClCompile Include="设计一个有getMin功能的栈.cpp" />
+    <ClCompile Include="输入n个整数，输出出现次数大于等于数组长度一半的数.cpp" />
+    <ClCompile Include="进制转换.cpp" />
+    <ClCompile Include="连续最大和.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

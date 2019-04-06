@@ -30,5 +30,56 @@
     <ClCompile Include="生成窗口最大值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="取中值求最大.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删除公共字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="腾讯笔试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="倒置一个字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串中找出连续的数字串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输入n个整数，输出出现次数大于等于数组长度一半的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计回文.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="连续最大和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="合法括号序列判断.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两种对字母的排序方法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最小公倍数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两数相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="密码解密.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="因子个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

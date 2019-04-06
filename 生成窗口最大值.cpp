@@ -1,3 +1,4 @@
+#if 0
 #include<deque>
 #include<vector>
 #include<iostream>
@@ -32,3 +33,4 @@ int main()
 		std::cout << res[i] << std::endl;
 	return 0;
 }
+#endif
