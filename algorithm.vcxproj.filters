@@ -81,5 +81,56 @@
     <ClCompile Include="因子个数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最近公共祖先.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最大连续bit数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制插入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="公共字符串计算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="完全数计算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="杨辉三角的变形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两个大数相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计兔子数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="汽水瓶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找两个字符串中最长公共子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="反转字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找一个偶数最接近的两个素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="年终奖.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="不用加减法做相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="奇数位都是奇数，偶数位都是偶数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="猴子分桃.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
